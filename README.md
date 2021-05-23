@@ -1,7 +1,12 @@
 clevo NB5TK1_TJ1 BIOS v1.07.19
 
 ****************************************
-
+for:
+NB50TJ1
+NB50TK1
+NB60TJ1
+NB60TK1
+****************************************
 files list:
 
 1. clevo origin BIOS v10719 and  flash tools.zip
