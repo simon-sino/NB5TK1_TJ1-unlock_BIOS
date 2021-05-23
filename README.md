@@ -34,9 +34,10 @@ FPTW64.exe -f biosfilename.fd -bios
 
 ****************************************
 
-clevo offical BIOS and EC files links:
+clevo offical BIOS , EC files and drivers links:
 ----
 ftp://ftp.clevo.com.tw/ALLBIOS/NB5TK1_TJ1/B10719.zip
 
 ftp://ftp.clevo.com.tw/ALLBIOS/NB5TK1_TJ1/EC10706.zip
 
+https://www.clevo.com.tw/en/e-services/download/ftpOut.asp?Lmodel=NB5XTK1_TJ1&ltype=9
